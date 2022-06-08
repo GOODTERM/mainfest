@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="origin" fetch="https://github.com/GOODTERM" revision="http://10.2.15.128:8081/" />
+  <remote name="origin" fetch="https://github.com/GOODTERM" review="https://github.com/GOODTERM" />
 
   <default revision="main" remote="origin" />
 
