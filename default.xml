@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="origin" fetch="http://admin@c0ac3711bcee" review="http://admin@c0ac3711bcee" />
+  <remote name="origin" fetch="ssh://admin@c0ac3711bcee:29418" review="ssh://admin@c0ac3711bcee:29418" />
 
   <default revision="master" remote="origin" />
 
