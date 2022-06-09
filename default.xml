@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="origin" fetch="http://10.2.15.128:8081/" review="http://10.2.15.128:8081/" />
+  <remote name="origin" fetch="http://admin@c0ac3711bcee" review="http://admin@c0ac3711bcee" />
 
   <default revision="main" remote="origin" />
 
