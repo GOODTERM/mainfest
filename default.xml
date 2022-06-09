@@ -3,7 +3,7 @@
 
   <remote name="origin" fetch="http://admin@c0ac3711bcee" review="http://admin@c0ac3711bcee" />
 
-  <default revision="main" remote="origin" />
+  <default revision="master" remote="origin" />
 
   <project name="hellosyrius" path="hellosyrius"></project>
   <project name="All-Projects" path="All-Projects"></project>
