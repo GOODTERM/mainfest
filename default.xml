@@ -7,5 +7,6 @@
 
   <project name="hellosyrius" path="hellosyrius"></project>
   <project name="All-Projects" path="All-Projects"></project>
+  <project name="docs" path="docs"></project>
 
 </manifest>
